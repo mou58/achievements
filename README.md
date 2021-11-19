@@ -1,13 +1,13 @@
 ## Training and certifications
 
 ##### CCNA (Cisco Certified Network Associate) 
-Completed 4 hands-on, lab-oriented courses offered by the **Cisco Networking Academy**. These are ñ </br>
+Completed 4 hands-on, lab-oriented courses offered by the **Cisco Networking Academy**. These are ‚Äì </br>
 </br>&emsp;&emsp;&emsp;* CCNA Routing and Switching: Routing and Switching Essentials
 </br>&emsp;&emsp;&emsp;* CCNA Routing and Switching: Introduction to Networks
 </br>&emsp;&emsp;&emsp;* CCNA Routing and Switching: Connecting Networks
 </br>&emsp;&emsp;&emsp;* CCNA Routing and Switching: Scaling Networks
 
-For more detail, click here.
+For more detail, click [here](https://github.com/mou58/achievements/tree/master/CCNA).
 
 ##### Training Institute for Chemical Industries (TICI)
 <p>Participated in a month-long industrial attachment at Training Institute for Chemical Industries (TICI), Narsingdi to learn electrical safety, testing and measurement, transformer, generator, motor, power generation, transmission, distribution, control system, industrial broiler and steam generation, and industrial safety.</p>
@@ -19,22 +19,22 @@ For detail, click here </br></br>
 For more detail, click here.
 * **IIT Bombay RoboVR 2016**<br>
 **1st Runner-up** in "Sumo Robo Wrestling" and **2nd Runner-up** in FPV Car Racing. For more detail, click here. 
-* **Robolution 2016 ñ Project Showcasing** <br>Became **runner-up** for demonstrating ìSmart Agricultural Robotics Systemî. </br>
+* **Robolution 2016 ‚Äì Project Showcasing** <br>Became **runner-up** for demonstrating ‚ÄúSmart Agricultural Robotics System‚Äù. </br>
 For more detail, click here.
-* **Robolution 2016 ñ Robo Race**<br> Reached to semi-final in a robot racing competition. For more detail, click here. 
-* **Robolution 2016 ñ Quadcopter**<br>
+* **Robolution 2016 ‚Äì Robo Race**<br> Reached to semi-final in a robot racing competition. For more detail, click here. 
+* **Robolution 2016 ‚Äì Quadcopter**<br>
 Reached the third stage out of five stages. For more detail, click here. <br>
-* **Tech storm 2016 ñ Project Showcasing**<br>
+* **Tech storm 2016 ‚Äì Project Showcasing**<br>
 Became **champion** for demonstrating "Agro-Robot". For more detail, click here. <br>
-* **Electro Fair 2015 ñ Line Follower**<br>
+* **Electro Fair 2015 ‚Äì Line Follower**<br>
 Became **runner-up** in a line follower robot competition. Fore more detail, click here. <br>
-* **RMA ROBORACE 2015 ñ ROBOMAFIA**<br>
+* **RMA ROBORACE 2015 ‚Äì ROBOMAFIA**<br>
 Participated in a robo-fight competition. For more detail, click here. <br>
-* **Mecceleration 2015 ñ Project Showcasing**<br>
+* **Mecceleration 2015 ‚Äì Project Showcasing**<br>
 Demonsrated the project titled "The Third Hand of Blind People". For more detail, click here.
-* **Mecceleration 2015 ñ General Knowledge**<br>
+* **Mecceleration 2015 ‚Äì General Knowledge**<br>
 Participated in a general knowledge competition. For more detail, click here. <br>
-* **Electro Fair 2014 ñ Project Showcasing**<br>
+* **Electro Fair 2014 ‚Äì Project Showcasing**<br>
 Demonstrated the project titled ""Digital door lock to secure access". For more detail, click here. <br>
 * **EEE Quiz Contest 2012**<br>
 Participated in a EEE quiz contest. For more detail, click here. <br>
