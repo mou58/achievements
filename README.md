@@ -10,7 +10,7 @@ Completed 4 hands-on, lab-oriented courses offered by the **Cisco Networking Aca
 For more detail, click [here](https://github.com/mou58/achievements/tree/master/CCNA).
 
 #### Training Institute for Chemical Industries (TICI)
-<p>Participated in a month-long industrial attachment at Training Institute for Chemical Industries (TICI), Narsingdi to learn electrical safety, testing and measurement, transformer, generator, motor, power generation, transmission, distribution, control system, industrial broiler and steam generation, and industrial safety.</p>
+Participated in a month-long industrial attachment at Training Institute for Chemical Industries (TICI), Narsingdi to learn electrical safety, testing and measurement, transformer, generator, motor, power generation, transmission, distribution, control system, industrial broiler and steam generation, and industrial safety.</p>
 For detail, click [here](https://github.com/mou58/achievements/tree/master/TICI) </br></br>
 
 
