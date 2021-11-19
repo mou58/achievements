@@ -31,7 +31,7 @@ Became **runner-up** in a line follower robot competition. For more detail, clic
 * **RMA ROBORACE 2015 – ROBOMAFIA**<br>
 Participated in a robo-fight competition. For more detail, click [here](https://github.com/mou58/achievements/tree/master/Robo%20race%202015). <br>
 * **Mecceleration 2015 – Project Showcasing**<br>
-Demonsrated the project titled "The Third Hand of Blind People". For more detail, click [here](https://github.com/mou58/achievements/tree/master/Mecceleration%202015%20-%20project%20show%20casing).
+Demonstrated the project titled "The Third Hand of Blind People". For more detail, click [here](https://github.com/mou58/achievements/tree/master/Mecceleration%202015%20-%20project%20show%20casing).
 * **Mecceleration 2015 – General Knowledge**<br>
 Participated in a general knowledge competition. For more detail, click [here](https://github.com/mou58/achievements/tree/master/Mecceleration%202015%20-%20General%20knowledge). <br>
 * **Electro Fair 2014 – Project Showcasing**<br>
