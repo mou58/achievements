@@ -21,7 +21,7 @@ For more detail, click [here](https://github.com/mou58/achievements/tree/master/
 **1st Runner-up** in "Sumo Robo Wrestling" and **2nd Runner-up** in FPV Car Racing. For more detail, click [here](https://github.com/mou58/achievements/tree/master/IIT%20Bombay%20RoboVR%202016). 
 * **Robolution 2016 – Project Showcasing** <br>Became **runner-up** for demonstrating “Smart Agricultural Robotics System”. </br>
 For more detail, click [here](https://github.com/mou58/achievements/tree/master/Robolution%202016%20-%20Project%20showcasing).
-* **Robolution 2016 – Robo Race**<br> Reached to semi-final in a robot racing competition. For more detail, click [here](https://github.com/mou58/achievements/tree/master/Robolution%202016%20-%20robo%20race). 
+* **Robolution 2016 – Robo Race**<br> Reached the semi-final in a robot racing competition. For more detail, click [here](https://github.com/mou58/achievements/tree/master/Robolution%202016%20-%20robo%20race). 
 * **Robolution 2016 – Quadcopter**<br>
 Reached the third stage out of five stages. For more detail, click [here](https://github.com/mou58/achievements/tree/master/Robolution%202016%20-%20quad%20copter). <br>
 * **Tech storm 2016 – Project Showcasing**<br>
