@@ -35,7 +35,7 @@ Demonsrated the project titled "The Third Hand of Blind People". For more detail
 * **Mecceleration 2015 – General Knowledge**<br>
 Participated in a general knowledge competition. For more detail, click [here](https://github.com/mou58/achievements/tree/master/Mecceleration%202015%20-%20General%20knowledge). <br>
 * **Electro Fair 2014 – Project Showcasing**<br>
-Demonstrated the project titled ""Digital door lock to secure access". For more detail, click [here](https://github.com/mou58/achievements/tree/master/ElectroFair%202014%20-%20project%20showcasing). <br>
+Demonstrated the project titled "Digital door lock to secure access". For more detail, click [here](https://github.com/mou58/achievements/tree/master/ElectroFair%202014%20-%20project%20showcasing). <br>
 * **EEE Quiz Contest 2012**<br>
 Participated in a EEE quiz contest. For more detail, click [here](https://github.com/mou58/achievements/tree/master/quiz%20contest%202012). <br>
 * **Astro Olympiad 2009** <br>
