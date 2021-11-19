@@ -2,10 +2,10 @@
 
 #### CCNA (Cisco Certified Network Associate) 
 Completed 4 hands-on, lab-oriented courses offered by the **Cisco Networking Academy**. These are – </br>
-</br>&emsp;&emsp;&emsp;* CCNA Routing and Switching: Routing and Switching Essentials
-</br>&emsp;&emsp;&emsp;* CCNA Routing and Switching: Introduction to Networks
-</br>&emsp;&emsp;&emsp;* CCNA Routing and Switching: Connecting Networks
-</br>&emsp;&emsp;&emsp;* CCNA Routing and Switching: Scaling Networks
+</br>&emsp;&emsp;&emsp;* CCNA1: Routing and Switching: Routing and Switching Essentials
+</br>&emsp;&emsp;&emsp;* CCNA2: Routing and Switching: Introduction to Networks
+</br>&emsp;&emsp;&emsp;* CCNA3: Routing and Switching: Connecting Networks
+</br>&emsp;&emsp;&emsp;* CCNA4: Routing and Switching: Scaling Networks
 
 For more detail, click [here](https://github.com/mou58/achievements/tree/master/CCNA).
 
