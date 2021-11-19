@@ -27,7 +27,7 @@ Reached the third stage out of five stages. For more detail, click [here](https:
 * **Tech storm 2016 – Project Showcasing**<br>
 Became **champion** for demonstrating "Agro-Robot". For more detail, click [here](https://github.com/mou58/achievements/tree/master/Tech%20storm%202016%20-%20project%20showcasing). <br>
 * **Electro Fair 2015 – Line Follower**<br>
-Became **runner-up** in a line follower robot competition. Fore more detail, click [here](https://github.com/mou58/achievements/tree/master/ElectroFair%202015%20-%20line%20follower). <br>
+Became **runner-up** in a line follower robot competition. For more detail, click [here](https://github.com/mou58/achievements/tree/master/ElectroFair%202015%20-%20line%20follower). <br>
 * **RMA ROBORACE 2015 – ROBOMAFIA**<br>
 Participated in a robo-fight competition. For more detail, click [here](https://github.com/mou58/achievements/tree/master/Robo%20race%202015). <br>
 * **Mecceleration 2015 – Project Showcasing**<br>
